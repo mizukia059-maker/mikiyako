@@ -1,0 +1,1028 @@
+{
+  "registeredUsersCount": 5,
+  "allProfiles": {
+    "ym_ki": {
+      "dob": "2004-06-15",
+      "gems": 10,
+      "coins": 500,
+      "email": "ymrecordsllc@gmail.com",
+      "animal": "Zorro 🦊",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces",
+      "banner": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=900&h=300&fit=crop",
+      "idCard": {
+        "age": 20,
+        "gender": "Femenino",
+        "cardColor": "#6366f1",
+        "faceclaim": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces",
+        "matricula": "YM-2026-9907",
+        "pseudonym": "ym_ki",
+        "specialties": [
+          "vocal"
+        ],
+        "stripeColor": "#ec4899"
+      },
+      "nickname": "YM-ki Records LLC.",
+      "username": "ym_ki",
+      "isFounder": false,
+      "ringColor": "#6366f1",
+      "userBiases": [],
+      "userStatus": null,
+      "accountType": "fan",
+      "buttonTheme": {
+        "bgColor": "#ec4899",
+        "textColor": "#ffb3df",
+        "borderColor": "#ec4899",
+        "hoverBgColor": "#db2777",
+        "activeBgColor": "#be185d"
+      },
+      "description": "Miembro oficial de la comunidad YM-ki Records.",
+      "ownedFrames": [],
+      "accessStatus": "active",
+      "allowMessages": true,
+      "isMerchPrivate": false,
+      "profileBgColor": "#1e293b",
+      "badgeAdminColor": "#ec4899",
+      "displayedBadges": [],
+      "selectedFrameId": null,
+      "showcaseItemIds": [],
+      "customFrameColor": "#6366f1",
+      "transparentFrame": null,
+      "completedMissions": [],
+      "fandomDisplayMode": "beside_username",
+      "badgeVerifiedColor": "#38bdf8",
+      "mutedConversations": [],
+      "subscribedEventIds": [],
+      "displayedFandomTags": []
+    },
+    "testfan": {
+      "dob": "2000-01-01",
+      "gems": 10,
+      "coins": 500,
+      "email": "testfan@ymki.club",
+      "animal": "Zorro 🦊",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces",
+      "banner": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=900&h=300&fit=crop",
+      "idCard": {
+        "age": 20,
+        "gender": "Femenino",
+        "cardColor": "#6366f1",
+        "faceclaim": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces",
+        "matricula": "YM-2026-4433",
+        "pseudonym": "testfan",
+        "specialties": [
+          "vocal"
+        ],
+        "stripeColor": "#ec4899"
+      },
+      "nickname": "testfan",
+      "username": "testfan",
+      "isFounder": false,
+      "ringColor": "#6366f1",
+      "accountType": "fan",
+      "description": "Miembro oficial de la comunidad YM-ki Records.",
+      "ownedFrames": [],
+      "accessStatus": "active",
+      "allowMessages": true,
+      "isMerchPrivate": false,
+      "profileBgColor": "#1e293b",
+      "badgeAdminColor": "#ec4899",
+      "selectedFrameId": null,
+      "showcaseItemIds": [],
+      "customFrameColor": "#6366f1",
+      "transparentFrame": null,
+      "completedMissions": [],
+      "fandomDisplayMode": "beside_username",
+      "badgeVerifiedColor": "#38bdf8",
+      "displayedFandomTags": []
+    },
+    "test6619": {
+      "dob": "2004-06-15",
+      "gems": 10,
+      "coins": 500,
+      "email": "test6619@ymki.club",
+      "animal": "Zorro 🦊",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces",
+      "banner": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=900&h=300&fit=crop",
+      "idCard": {
+        "age": 20,
+        "gender": "Femenino",
+        "cardColor": "#6366f1",
+        "faceclaim": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces",
+        "matricula": "YM-2026-3540",
+        "pseudonym": "test6619",
+        "specialties": [
+          "vocal"
+        ],
+        "stripeColor": "#ec4899"
+      },
+      "nickname": "test6619",
+      "username": "test6619",
+      "isFounder": false,
+      "ringColor": "#6366f1",
+      "accountType": "fan",
+      "description": "Miembro oficial de la comunidad YM-ki Records.",
+      "ownedFrames": [],
+      "accessStatus": "active",
+      "allowMessages": true,
+      "isMerchPrivate": false,
+      "profileBgColor": "#1e293b",
+      "badgeAdminColor": "#ec4899",
+      "selectedFrameId": null,
+      "showcaseItemIds": [],
+      "customFrameColor": "#6366f1",
+      "transparentFrame": null,
+      "completedMissions": [],
+      "fandomDisplayMode": "beside_username",
+      "badgeVerifiedColor": "#38bdf8",
+      "displayedFandomTags": []
+    },
+    "aurora_fan": {
+      "dob": "2004-06-15",
+      "gems": 10,
+      "coins": 450,
+      "email": "aurora@example.com",
+      "animal": "Zorro 🦊",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces",
+      "banner": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=900&h=300&fit=crop",
+      "idCard": {
+        "age": 20,
+        "gender": "Femenino",
+        "cardColor": "#6366f1",
+        "faceclaim": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces",
+        "matricula": "YM-2026-3376",
+        "pseudonym": "aurora_fan",
+        "specialties": [
+          "vocal"
+        ],
+        "stripeColor": "#ec4899"
+      },
+      "nickname": "aurora_fan",
+      "username": "aurora_fan",
+      "isFounder": false,
+      "ringColor": "#6366f1",
+      "accountType": "fan",
+      "description": "Miembro oficial de la comunidad YM-ki Records.",
+      "ownedFrames": [],
+      "accessStatus": "active",
+      "allowMessages": true,
+      "isMerchPrivate": false,
+      "profileBgColor": "#1e293b",
+      "badgeAdminColor": "#ec4899",
+      "selectedFrameId": null,
+      "showcaseItemIds": [],
+      "customFrameColor": "#6366f1",
+      "transparentFrame": null,
+      "completedMissions": [],
+      "fandomDisplayMode": "beside_username",
+      "badgeVerifiedColor": "#38bdf8",
+      "displayedFandomTags": []
+    },
+    "prueba2631": {
+      "dob": "2004-06-15",
+      "gems": 10,
+      "coins": 500,
+      "email": "prueba2631@ymki.club",
+      "animal": "Zorro 🦊",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces",
+      "banner": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=900&h=300&fit=crop",
+      "idCard": {
+        "age": 20,
+        "gender": "Femenino",
+        "cardColor": "#6366f1",
+        "faceclaim": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&h=150&fit=crop&crop=faces",
+        "matricula": "YM-2026-3764",
+        "pseudonym": "prueba2631",
+        "specialties": [
+          "vocal"
+        ],
+        "stripeColor": "#ec4899"
+      },
+      "nickname": "prueba2631",
+      "username": "prueba2631",
+      "isFounder": false,
+      "ringColor": "#6366f1",
+      "accountType": "fan",
+      "description": "Miembro oficial de la comunidad YM-ki Records.",
+      "ownedFrames": [],
+      "accessStatus": "active",
+      "allowMessages": true,
+      "isMerchPrivate": false,
+      "profileBgColor": "#1e293b",
+      "badgeAdminColor": "#ec4899",
+      "selectedFrameId": null,
+      "showcaseItemIds": [],
+      "customFrameColor": "#6366f1",
+      "transparentFrame": null,
+      "completedMissions": [],
+      "fandomDisplayMode": "beside_username",
+      "badgeVerifiedColor": "#38bdf8",
+      "displayedFandomTags": []
+    }
+  },
+  "survivals": [],
+  "forums": [],
+  "posts": [],
+  "fanClubs": [],
+  "chats": {},
+  "chatGroups": [],
+  "products": [],
+  "inventory": [],
+  "userAlbums": [],
+  "userPhotocards": [],
+  "magazines": [],
+  "releases": [],
+  "awards": [
+    {
+      "id": "award-1793752430304",
+      "title": "e5ke57k",
+      "banner": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=1200",
+      "endDate": "2026-11-04",
+      "isActive": true,
+      "createdAt": "2026-11-04T00:33:50.304Z",
+      "createdBy": "YM-ki Entertainment",
+      "startDate": "2026-11-03",
+      "categories": [
+        {
+          "id": "cat-1793752462972",
+          "name": "w5kjw57k",
+          "nominees": [
+            {
+              "id": "nom-1",
+              "name": "YM-ki All Stars",
+              "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=300",
+              "votes": 1,
+              "subtitle": "Comeback Oficial"
+            },
+            {
+              "id": "nom-1793752454739",
+              "name": "5rjk5kj",
+              "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300",
+              "votes": 1,
+              "subtitle": "5ryktyktyy7"
+            },
+            {
+              "id": "nom-1793752460975",
+              "name": "ys7kws56kw56k",
+              "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300",
+              "votes": 18,
+              "subtitle": "sskwsy6k5wk"
+            }
+          ],
+          "description": "w64tjwyjkw5",
+          "votesLimitPerUser": 20
+        }
+      ],
+      "description": "eke57kik75k"
+    },
+    {
+      "id": "award-2026",
+      "title": "YM-ki Music & Performance Awards (YMMA 2026)",
+      "banner": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=1200&auto=format&fit=crop&q=80",
+      "endDate": "2026-12-31",
+      "isActive": true,
+      "createdAt": "2026-11-03T00:01:16.855Z",
+      "createdBy": "YM-ki Entertainment",
+      "startDate": "2026-11-01",
+      "categories": [
+        {
+          "id": "cat-art-year",
+          "name": "Artista del Año (Artist of the Year)",
+          "nominees": [
+            {
+              "id": "nom-allstars",
+              "name": "YM-ki All Stars",
+              "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=300&auto=format&fit=crop&q=80",
+              "votes": 245,
+              "subtitle": "Lanzamiento: ECLIPSE"
+            },
+            {
+              "id": "nom-trainees",
+              "name": "YM-ki Trainees",
+              "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=300&auto=format&fit=crop&q=80",
+              "votes": 157,
+              "subtitle": "Lanzamiento: Neon Horizon"
+            }
+          ],
+          "description": "Premio al artista o grupo con mayor impacto escénico, talento y conexión con el fandom.",
+          "votesLimitPerUser": 3
+        },
+        {
+          "id": "cat-best-mv",
+          "name": "Mejor Video Musical (Best MV & Visuals)",
+          "nominees": [
+            {
+              "id": "nom-mv-eclipse",
+              "name": "ECLIPSE - YM-ki All Stars",
+              "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=300&auto=format&fit=crop&q=80",
+              "votes": 310,
+              "subtitle": "Dirigido por YM-ki Studios"
+            },
+            {
+              "id": "nom-mv-neon",
+              "name": "NEON HORIZON Teaser Film",
+              "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=300&auto=format&fit=crop&q=80",
+              "votes": 198,
+              "subtitle": "Dirigido por CyberFrame Labs"
+            }
+          ],
+          "description": "Reconocimiento a la dirección artística, cinematografía y producción audiovisual.",
+          "votesLimitPerUser": 3
+        },
+        {
+          "id": "cat-best-dance",
+          "name": "Mejor Coreografía & Performance",
+          "nominees": [
+            {
+              "id": "nom-dance-eclipse",
+              "name": "ECLIPSE (Point Dance Chorus)",
+              "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80",
+              "votes": 280,
+              "subtitle": "Coreografía por CEO Sora & Jin"
+            },
+            {
+              "id": "nom-dance-velocity",
+              "name": "Velocity Rush Dance Break",
+              "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=300&auto=format&fit=crop&q=80",
+              "votes": 172,
+              "subtitle": "Coreografía por Trainee Team Alpha"
+            }
+          ],
+          "description": "Premio a la coordinación rítmica, presencia escénica y creatividad coreográfica.",
+          "votesLimitPerUser": 2
+        }
+      ],
+      "description": "La máxima premiación anual de la agencia donde los fans eligen a sus artistas, coreografías y lanzamientos favoritos."
+    }
+  ],
+  "userAwardVotes": {},
+  "userVotedNominees": {},
+  "auditions": [],
+  "auditionPassCodes": [],
+  "notifications": [
+    {
+      "id": "notif-1794441417289",
+      "date": "2026-11-11T23:56:57.332Z",
+      "read": false,
+      "type": "transfer_received",
+      "title": "¡Has recibido 50 coins!",
+      "message": "@undefined te ha enviado 50 coins. Nota: \"Apoyo\"",
+      "category": "compras",
+      "recipient": "admin"
+    },
+    {
+      "id": "notif-1793755837324",
+      "date": "2026-11-04T01:30:37.325Z",
+      "read": false,
+      "type": "system",
+      "title": "👑 ¡Solicitud de CEO Aprobada!",
+      "message": "¡Felicidades! Tu solicitud para ser CEO ha sido aprobada por el CEO Fundador (@admin). Tu cuenta cuenta con permisos de Administrador y saldo ilimitado.",
+      "recipient": "BobTheGreat"
+    }
+  ],
+  "tradeOffers": [],
+  "lastUpdated": "2026-11-17T18:57:07.531Z",
+  "ceoRequests": [
+    {
+      "id": "req-1793755837319",
+      "date": "2026-11-04T01:30:37.319Z",
+      "reason": "Quiero liderar la división de hip-hop de YM-ki",
+      "status": "approved",
+      "username": "BobTheGreat",
+      "targetCeo": "admin",
+      "requestedRole": "admin"
+    }
+  ],
+  "firstRegisteredUser": "",
+  "userCredentials": {
+    "ym_ki": {
+      "hash": "6aaddaa5f0bc1e4e1b29404ae3b684081b44822bd18fecc8ca20bf6a4b3b10ed8e88feb679cc036cdcebb5e9de9bd2226511cba50a928e604e882db8eb407524",
+      "salt": "87bff01805af798f669fba32d4d80fe8",
+      "isFounder": false
+    },
+    "testfan": {
+      "hash": "4dd2db5e4bbb5ee51c79f203d3d26d6540e18158de819aaeb19d72db994b5c5c20c54f055e0770a1a90c8a219b545965047fecf1d9307a5ac34be00dd8d86d84",
+      "salt": "b4ba7d0ed2a31a33b0ed6e29e809a17d",
+      "isFounder": false
+    },
+    "test6619": {
+      "hash": "e5cc72b2452fadb315f2bd368295af7f3f5e762777d8d92f9f047e09ee40b4037f6ffbb0cc16d0f9ef253da7136e1bd96c787889716a240132dbb21c6cafadf0",
+      "salt": "4943b41ef36a915dbc9291da8e86caf6",
+      "isFounder": false,
+      "lastLogin": "2026-11-14T19:40:17.762Z"
+    },
+    "aurora_fan": {
+      "hash": "85947e3b6936e8fc21d35db9899d6a97e6656c28f70a98e34d8535b190685d1f4968dea0edb9e065c839196089d799853f75bb6e14617d1ac2751a0e070a388e",
+      "salt": "9480ddf6de7a95e5f831c57f29ab104d",
+      "isFounder": false
+    },
+    "prueba2631": {
+      "hash": "9d5023e8702428a65613f3606a971ef83a6af3dac9c5935434f542f2e628ef28e8bc775725d21d2b7329927f7e9ac2d57b7320da995c782a0c64974b34cd7862",
+      "salt": "3e12821b92a45001266e7e6cffbc2bf5",
+      "isFounder": false,
+      "lastLogin": "2026-11-14T19:40:17.888Z"
+    }
+  },
+  "missions": [
+    {
+      "id": "dm-post",
+      "title": "Publicar en Foros Oficiales",
+      "reqType": "publish_posts",
+      "category": "daily",
+      "isActive": true,
+      "createdAt": "2026-11-11T23:30:41.855Z",
+      "rewardGems": 5,
+      "description": "Comparte un tema, debate o anuncio en los foros comunitarios.",
+      "rewardCoins": 250,
+      "targetCount": 1
+    },
+    {
+      "id": "dm-comment",
+      "title": "Interacción Comunitaria",
+      "reqType": "write_comments",
+      "category": "daily",
+      "isActive": true,
+      "createdAt": "2026-11-11T23:30:41.856Z",
+      "rewardGems": 3,
+      "description": "Escribe al menos 2 comentarios en publicaciones de la comunidad.",
+      "rewardCoins": 150,
+      "targetCount": 2
+    },
+    {
+      "id": "dm-listen",
+      "title": "Sesión Sonora en YM-ki",
+      "reqType": "listen_tracks",
+      "category": "daily",
+      "isActive": true,
+      "createdAt": "2026-11-11T23:30:41.856Z",
+      "rewardGems": 2,
+      "description": "Escucha canciones oficiales de los lanzamientos y álbumes de la plataforma.",
+      "rewardCoins": 100,
+      "targetCount": 1
+    },
+    {
+      "id": "wm-collect",
+      "title": "Coleccionista Activo de Merch",
+      "reqType": "collect_items",
+      "category": "weekly",
+      "isActive": true,
+      "createdAt": "2026-11-11T23:30:41.856Z",
+      "rewardGems": 30,
+      "description": "Adquiere productos en la tienda o exhibe 2 artículos en tu vitrina de merchandising.",
+      "rewardCoins": 1000,
+      "targetCount": 2
+    },
+    {
+      "id": "wm-vote",
+      "title": "Votante en Premiaciones o Survivals",
+      "reqType": "award_vote",
+      "category": "weekly",
+      "isActive": true,
+      "createdAt": "2026-11-11T23:30:41.856Z",
+      "rewardGems": 25,
+      "description": "Participa con tu voto oficial en al menos 3 categorías de premiaciones o rondas de talentos.",
+      "rewardCoins": 800,
+      "targetCount": 3
+    },
+    {
+      "id": "wm-transfer",
+      "title": "Generosidad Estelar (Gem Transfer)",
+      "reqType": "gem_transfer",
+      "category": "weekly",
+      "isActive": true,
+      "createdAt": "2026-11-11T23:30:41.856Z",
+      "rewardGems": 20,
+      "description": "Apoya a un colega fan o artista transfiriendo Gemas de tu cuenta.",
+      "rewardCoins": 600,
+      "targetCount": 1
+    },
+    {
+      "id": "mm-fandom",
+      "title": "Pasión de Fandom Oficial",
+      "reqType": "join_fanclub",
+      "category": "monthly",
+      "isActive": true,
+      "createdAt": "2026-11-11T23:30:41.856Z",
+      "rewardGems": 100,
+      "description": "Únete a un club de fans oficial y activa su etiqueta de fandom en tu perfil.",
+      "rewardCoins": 3000,
+      "targetCount": 1
+    },
+    {
+      "id": "mm-customize",
+      "title": "Identidad y Estilo Escénico",
+      "reqType": "customize_profile",
+      "category": "monthly",
+      "isActive": true,
+      "createdAt": "2026-11-11T23:30:41.856Z",
+      "rewardGems": 70,
+      "description": "Personaliza tu foto de perfil, marco exterior o color de aura en la plataforma.",
+      "rewardCoins": 2000,
+      "targetCount": 1
+    },
+    {
+      "id": "mm-posts-grand",
+      "title": "Creador Estrella del Mes",
+      "reqType": "publish_posts",
+      "category": "monthly",
+      "isActive": true,
+      "createdAt": "2026-11-11T23:30:41.856Z",
+      "rewardGems": 150,
+      "description": "Alcanza 10 publicaciones o comentarios en la red social de YM-ki Records.",
+      "rewardCoins": 4500,
+      "targetCount": 10
+    }
+  ],
+  "missionClaims": [],
+  "missionProgress": {},
+  "economyLedger": [
+    {
+      "id": "tx-1794441417289-1180",
+      "type": "earn_coins",
+      "amount": 50,
+      "reason": "Apoyo",
+      "currency": "coins",
+      "username": "admin",
+      "timestamp": "2026-11-11T23:56:57.289Z",
+      "balanceAfter": 550
+    }
+  ],
+  "wishlists": {},
+  "showcaseCollections": {},
+  "loginAttempts": {
+    "169.254.169.126:prueba123": {
+      "count": 1,
+      "windowStart": 1794685534816
+    },
+    "169.254.169.126:prueba2631": {
+      "count": 3,
+      "windowStart": 1794685283713
+    },
+    "169.254.169.126:miprueba123": {
+      "count": 3,
+      "windowStart": 1794684385465
+    },
+    "127.0.0.1:forgot:audit_tmp_check": {
+      "count": 1,
+      "windowStart": 1794676534380
+    },
+    "127.0.0.1:ymrecordsllc@gmail.com": {
+      "count": 1,
+      "windowStart": 1794941054428
+    },
+    "169.254.169.126:testfan@ymki.club": {
+      "count": 2,
+      "windowStart": 1794685081876
+    },
+    "127.0.0.1:forgot:nonexistent_xyz_999": {
+      "count": 1,
+      "windowStart": 1794676534385
+    }
+  },
+  "userReports": [],
+  "blockedUsers": {},
+  "partners": [],
+  "charts": [],
+  "reviews": {},
+  "adminDelegations": {},
+  "adminAuditLog": [
+    {
+      "id": "audit-1794685217888-612",
+      "action": "USER_LOGIN",
+      "details": "Inicio de sesión autenticado como @prueba2631",
+      "timestamp": "2026-11-14T19:40:17.888Z",
+      "adminUsername": "prueba2631"
+    },
+    {
+      "id": "audit-1794685217763-312",
+      "action": "USER_LOGIN",
+      "details": "Inicio de sesión autenticado como @test6619",
+      "timestamp": "2026-11-14T19:40:17.763Z",
+      "adminUsername": "test6619"
+    },
+    {
+      "id": "audit-1794676864412-919",
+      "action": "USER_LOGIN",
+      "details": "Inicio de sesión autenticado como @ui_audit_tmp",
+      "timestamp": "2026-11-14T17:21:04.412Z",
+      "adminUsername": "ui_audit_tmp"
+    },
+    {
+      "id": "audit-1794676756958-816",
+      "action": "USER_LOGIN",
+      "details": "Inicio de sesión autenticado como @ui_audit_tmp",
+      "timestamp": "2026-11-14T17:19:16.958Z",
+      "adminUsername": "ui_audit_tmp"
+    },
+    {
+      "id": "audit-1794676687215-110",
+      "action": "USER_LOGIN",
+      "details": "Inicio de sesión autenticado como @ui_audit_tmp",
+      "timestamp": "2026-11-14T17:18:07.215Z",
+      "adminUsername": "ui_audit_tmp"
+    },
+    {
+      "id": "audit-1794676534368-888",
+      "action": "USER_LOGIN",
+      "details": "Inicio de sesión autenticado como @audit_tmp_check",
+      "timestamp": "2026-11-14T17:15:34.368Z",
+      "adminUsername": "audit_tmp_check"
+    },
+    {
+      "id": "audit-1794441407168",
+      "action": "USER_LOGIN",
+      "details": "Inicio de sesión autenticado como @aurora_fan",
+      "timestamp": "2026-11-11T23:56:47.168Z",
+      "adminUsername": "aurora_fan"
+    }
+  ],
+  "userRequests": [],
+  "achievements": [
+    {
+      "id": "ach-first-purchase",
+      "icon": "🛍️",
+      "title": "First Purchase",
+      "reqType": "first_purchase",
+      "category": "compras",
+      "isSecret": false,
+      "createdAt": "2026-11-11T23:30:41.977Z",
+      "rewardGems": 10,
+      "description": "Realiza tu primera compra oficial en la Tienda u Outlet de YM-ki Records.",
+      "rewardBadge": {
+        "id": "badge-first-shopper",
+        "name": "Shopper Novato",
+        "image": "https://images.unsplash.com/photo-1555529669-e69e7aa0ba9a?w=120&auto=format&fit=crop&q=80",
+        "rarity": "comun"
+      },
+      "rewardCoins": 300,
+      "targetCount": 1
+    },
+    {
+      "id": "ach-collector",
+      "icon": "🎴",
+      "title": "Collector Master",
+      "reqType": "photocards_count",
+      "category": "coleccion",
+      "isSecret": false,
+      "createdAt": "2026-11-11T23:30:41.978Z",
+      "rewardGems": 25,
+      "description": "Colecciona al menos 10 photocards exclusivas en tu inventario.",
+      "rewardBadge": {
+        "id": "badge-photocard-collector",
+        "name": "Collector Master",
+        "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=120&auto=format&fit=crop&q=80",
+        "rarity": "epica"
+      },
+      "rewardCoins": 800,
+      "targetCount": 10
+    },
+    {
+      "id": "ach-super-fan",
+      "icon": "🌟",
+      "title": "Super Fan",
+      "reqType": "votes_count",
+      "category": "actividad",
+      "isSecret": false,
+      "createdAt": "2026-11-11T23:30:41.978Z",
+      "rewardGems": 20,
+      "description": "Participa con tu voto oficial en 10 categorías o votaciones de la plataforma.",
+      "rewardBadge": {
+        "id": "badge-super-fan",
+        "name": "Super Fan Star",
+        "image": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=120&auto=format&fit=crop&q=80",
+        "rarity": "rara"
+      },
+      "rewardCoins": 600,
+      "targetCount": 10
+    },
+    {
+      "id": "ach-rising-star",
+      "icon": "🎤",
+      "title": "Rising Star",
+      "reqType": "audition_completed",
+      "category": "audiciones",
+      "isSecret": false,
+      "createdAt": "2026-11-11T23:30:41.978Z",
+      "rewardGems": 15,
+      "description": "Envía y completa satisfactoriamente una audición a los CEOs evaluadores.",
+      "rewardBadge": {
+        "id": "badge-rising-star",
+        "name": "Rising Star Talent",
+        "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=120&auto=format&fit=crop&q=80",
+        "rarity": "rara"
+      },
+      "rewardCoins": 500,
+      "targetCount": 1
+    },
+    {
+      "id": "ach-debut-ready",
+      "icon": "🔥",
+      "title": "Debut Ready",
+      "reqType": "survival_completed",
+      "category": "survival",
+      "isSecret": false,
+      "createdAt": "2026-11-11T23:30:41.978Z",
+      "rewardGems": 50,
+      "description": "Completa o participa activamente en un show o competencia de Survival.",
+      "rewardBadge": {
+        "id": "badge-survival-pro",
+        "name": "Debut Ready Survivor",
+        "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=120&auto=format&fit=crop&q=80",
+        "rarity": "legendaria"
+      },
+      "rewardCoins": 1200,
+      "targetCount": 1
+    },
+    {
+      "id": "ach-music-lover",
+      "icon": "🎧",
+      "title": "Music Lover",
+      "reqType": "tracks_listened",
+      "category": "musical",
+      "isSecret": false,
+      "createdAt": "2026-11-11T23:30:41.978Z",
+      "rewardGems": 15,
+      "description": "Reproduce y disfruta 20 tracks de álbumes o lanzamientos oficiales.",
+      "rewardBadge": {
+        "id": "badge-audiophile",
+        "name": "Melómano Élite",
+        "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=120&auto=format&fit=crop&q=80",
+        "rarity": "comun"
+      },
+      "rewardCoins": 400,
+      "targetCount": 20
+    },
+    {
+      "id": "ach-community-star",
+      "icon": "💬",
+      "title": "Community Star",
+      "reqType": "community_posts",
+      "category": "comunidad",
+      "isSecret": false,
+      "createdAt": "2026-11-11T23:30:41.978Z",
+      "rewardGems": 15,
+      "description": "Publica temas o comentarios al menos 5 veces en los foros comunitarios.",
+      "rewardBadge": {
+        "id": "badge-community-pillar",
+        "name": "Pilar Comunitario",
+        "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=120&auto=format&fit=crop&q=80",
+        "rarity": "rara"
+      },
+      "rewardCoins": 500,
+      "targetCount": 5
+    },
+    {
+      "id": "ach-secret-generosity",
+      "icon": "💎",
+      "title": "Generosidad Galáctica",
+      "reqType": "gem_transfer",
+      "category": "especiales",
+      "isSecret": true,
+      "createdAt": "2026-11-11T23:30:41.978Z",
+      "rewardGems": 30,
+      "description": "Transfiere Gemas a otro usuario para apoyarle.",
+      "rewardBadge": {
+        "id": "badge-secret-angel",
+        "name": "Corazón de Oro",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=120&auto=format&fit=crop&q=80",
+        "rarity": "mitica"
+      },
+      "rewardCoins": 900,
+      "targetCount": 1
+    },
+    {
+      "id": "ach-secret-custom",
+      "icon": "✨",
+      "title": "Aura Deslumbrante",
+      "reqType": "profile_customized",
+      "category": "especiales",
+      "isSecret": true,
+      "createdAt": "2026-11-11T23:30:41.978Z",
+      "rewardGems": 25,
+      "description": "Personaliza tu perfil con marcos transparentes y auras de color.",
+      "rewardBadge": {
+        "id": "badge-secret-fashionista",
+        "name": "Icono Visual",
+        "image": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?w=120&auto=format&fit=crop&q=80",
+        "rarity": "epica"
+      },
+      "rewardCoins": 600,
+      "targetCount": 1
+    },
+    {
+      "id": "ach-collab-pioneer",
+      "icon": "🤝",
+      "title": "Alianza Estratégica",
+      "reqType": "collaboration_completed",
+      "category": "empresas",
+      "isSecret": false,
+      "createdAt": "2026-11-11T23:30:41.978Z",
+      "rewardGems": 60,
+      "description": "Completa o participa con éxito en un proyecto de colaboración oficial.",
+      "rewardBadge": {
+        "id": "badge-collab-pioneer",
+        "name": "Líder Colaborativo",
+        "image": "https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=120&auto=format&fit=crop&q=80",
+        "rarity": "mitica"
+      },
+      "rewardCoins": 1500,
+      "targetCount": 1
+    }
+  ],
+  "calendarEvents": [
+    {
+      "id": "cal-event-1",
+      "name": "Gran Gala YM-ki Awards 2026",
+      "time": "20:00",
+      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600&auto=format&fit=crop&q=80",
+      "company": "YM-ki Records",
+      "endDate": "2026-11-20",
+      "category": "premiacion",
+      "createdAt": "2026-11-11T23:30:41.978Z",
+      "createdBy": "admin",
+      "isPrivate": false,
+      "startDate": "2026-11-20",
+      "description": "Ceremonia de premiación en vivo y anuncio de ganadores elegidos por el fandom.",
+      "isAutomated": true,
+      "sourceModule": "awards",
+      "relatedSection": "premiaciones"
+    },
+    {
+      "id": "cal-event-2",
+      "name": "Audiciones Abiertas Invierno 2026",
+      "time": "12:00",
+      "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd81?w=600&auto=format&fit=crop&q=80",
+      "company": "YM-ki Entertainment",
+      "endDate": "2026-11-30",
+      "category": "convocatoria",
+      "createdAt": "2026-11-11T23:30:41.978Z",
+      "createdBy": "admin",
+      "isPrivate": false,
+      "startDate": "2026-11-10",
+      "description": "Convocatoria global para nuevos talentos vocales, rap, baile y compositores.",
+      "isAutomated": true,
+      "sourceModule": "auditions",
+      "relatedSection": "audiciones"
+    },
+    {
+      "id": "cal-event-3",
+      "name": "Showcase Survival: Ronda 1",
+      "time": "18:00",
+      "image": "https://images.unsplash.com/photo-1492684223066-81342ee5ff30?w=600&auto=format&fit=crop&q=80",
+      "company": "YM-ki Studios",
+      "endDate": "2026-11-17",
+      "category": "survival",
+      "createdAt": "2026-11-11T23:30:41.978Z",
+      "createdBy": "admin",
+      "isPrivate": false,
+      "startDate": "2026-11-15",
+      "description": "Presentación de equipos y evaluación en vivo por jueces y mentores.",
+      "isAutomated": true,
+      "sourceModule": "survival",
+      "relatedSection": "survival"
+    }
+  ],
+  "penaltiesHistory": [],
+  "collaborations": [],
+  "followers": [],
+  "userStatuses": {},
+  "postReactions": {},
+  "commentReactions": {},
+  "savedCollections": {},
+  "savedPosts": {},
+  "vendors": [],
+  "productVariants": {
+    "prod-general-ren-varsity": [
+      {
+        "id": "var-v1",
+        "sku": "VAR-BLK-M",
+        "name": "Talla M - Negro Obsidiana",
+        "priceGems": 20,
+        "productId": "prod-general-ren-varsity",
+        "priceCoins": 2200,
+        "stockCount": 12,
+        "variantType": "size"
+      },
+      {
+        "id": "var-v2",
+        "sku": "VAR-BLK-L",
+        "name": "Talla L - Negro Obsidiana",
+        "priceGems": 20,
+        "productId": "prod-general-ren-varsity",
+        "priceCoins": 2200,
+        "stockCount": 10,
+        "variantType": "size"
+      },
+      {
+        "id": "var-v3",
+        "sku": "VAR-NEO-XL",
+        "name": "Talla XL - Edición Holográfica Neón",
+        "priceGems": 25,
+        "productId": "prod-general-ren-varsity",
+        "priceCoins": 2600,
+        "stockCount": 8,
+        "variantType": "edition"
+      }
+    ],
+    "prod-bundle-miki-superpack": [
+      {
+        "id": "var-b1",
+        "sku": "BUN-GLD-01",
+        "name": "Edición Estándar Gold",
+        "priceGems": 30,
+        "productId": "prod-bundle-miki-superpack",
+        "priceCoins": 3500,
+        "stockCount": 15,
+        "variantType": "edition"
+      },
+      {
+        "id": "var-b2",
+        "sku": "BUN-DIA-02",
+        "name": "Edición Coleccionista Diamond",
+        "priceGems": 45,
+        "productId": "prod-bundle-miki-superpack",
+        "priceCoins": 4200,
+        "stockCount": 10,
+        "variantType": "edition"
+      }
+    ]
+  },
+  "inventoryMovements": [],
+  "discountCoupons": [
+    {
+      "id": "coup-1",
+      "code": "WELCOME10",
+      "maxUses": 500,
+      "isActive": true,
+      "createdAt": "2026-11-01T00:00:00.000Z",
+      "usesCount": 12,
+      "discountPercent": 10,
+      "minPurchaseCoins": 500
+    },
+    {
+      "id": "coup-2",
+      "code": "STARLIGHT20",
+      "maxUses": 200,
+      "isActive": true,
+      "createdAt": "2026-11-01T00:00:00.000Z",
+      "usesCount": 5,
+      "discountPercent": 20,
+      "minPurchaseCoins": 1000
+    },
+    {
+      "id": "coup-3",
+      "code": "VIPYMKI30",
+      "maxUses": 50,
+      "isActive": true,
+      "createdAt": "2026-11-01T00:00:00.000Z",
+      "usesCount": 2,
+      "discountPercent": 30,
+      "minPurchaseCoins": 2000
+    }
+  ],
+  "productPurchases": [],
+  "activeSessions": {
+    "36ef8dd37c166e92d5040f7f0a617252c9da81e6a242339f490c92e7b037b9a2": {
+      "ip": "169.254.169.126",
+      "token": "36ef8dd37c166e92d5040f7f0a617252c9da81e6a242339f490c92e7b037b9a2",
+      "username": "test6619",
+      "createdAt": 1794685217627,
+      "expiresAt": 1795290017627
+    },
+    "37bf24d4c0c142345c8d7dc2199b12156833ffa23a2ad86c7f13cd4a5db421d8": {
+      "ip": "127.0.0.1",
+      "token": "37bf24d4c0c142345c8d7dc2199b12156833ffa23a2ad86c7f13cd4a5db421d8",
+      "username": "aurora_fan",
+      "createdAt": 1794441407167,
+      "expiresAt": 1795046207167
+    },
+    "748524337232fd3e7a92dd7f2e539215e8fb74a78e6436154d401f83c3058097": {
+      "ip": "169.254.169.126",
+      "token": "748524337232fd3e7a92dd7f2e539215e8fb74a78e6436154d401f83c3058097",
+      "username": "test6619",
+      "createdAt": 1794685217763,
+      "expiresAt": 1795290017763
+    },
+    "a9448a62907607923a8b187f7bf484b3107ce08cf391ba35efdc54ae81b7f64f": {
+      "ip": "169.254.169.126",
+      "token": "a9448a62907607923a8b187f7bf484b3107ce08cf391ba35efdc54ae81b7f64f",
+      "username": "prueba2631",
+      "createdAt": 1794685217888,
+      "expiresAt": 1795290017888
+    },
+    "f808e2ec2eab837213b9d83833b3122ed189c531b24b40a0cd8a9951e6d3ab91": {
+      "ip": "169.254.169.126",
+      "token": "f808e2ec2eab837213b9d83833b3122ed189c531b24b40a0cd8a9951e6d3ab91",
+      "username": "prueba2631",
+      "createdAt": 1794684296725,
+      "expiresAt": 1795289096725
+    }
+  },
+  "passwordResetTokens": {
+    "audit_tmp_check": {
+      "codeHash": "f0e33537b79b4a2536c6a7e1b83b33e7635d69cfbc8a746da8a5a6db20b0b10d",
+      "issuedBy": "self-request",
+      "createdAt": 1794676534380,
+      "expiresAt": 1794677434380
+    }
+  }
+}

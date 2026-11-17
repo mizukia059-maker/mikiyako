@@ -1,0 +1,8 @@
+{
+  "name": "Remix yekll",
+  "description": "Imported from GitHub: ymrecordsllc-source/yekll",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
